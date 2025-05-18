@@ -24,6 +24,9 @@ To create a dynamic, filter-enabled dashboard that provides actionable insights 
 - Detailed **Order Table** with filter controls
 - Region-wise **State Breakdown**
 
+  <img width="541" alt="Screenshot 2025-05-18 at 8 14 22 PM" src="https://github.com/user-attachments/assets/5c8cd1be-8dfa-45f7-ab4d-ba3b170b8b39" />
+
+
 ---
 
 ## 📎 Access the Dashboard
