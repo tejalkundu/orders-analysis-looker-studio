@@ -28,24 +28,10 @@ To create a dynamic, filter-enabled dashboard that provides actionable insights 
 
 ## 📎 Access the Dashboard
 
-🔗 [👉 View on Looker Studio](https://lookerstudio.google.com/s/pBzmcnablFQ)
+🔗 [👉 View on Looker Studio](https://lookerstudio.google.com/reporting/f9fb7748-a457-419b-bbcc-e88828ef33c6)
 
 ---
 
-## 📸 Preview
-
-![Dashboard Screenshot](./images/dashboard-screenshot.png)
-
----
-
-## 📄 Files Included
-
-| File | Description |
-|------|-------------|
-| `dashboard.pdf` | Exported PDF of the Looker Studio dashboard |
-| `images/dashboard-screenshot.png` | Visual preview for README or presentations |
-
----
 
 ## 🧠 Conclusion
 
